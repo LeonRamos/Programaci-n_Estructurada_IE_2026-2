@@ -22,7 +22,7 @@
 
 ## Unidades de Aprendizaje
 
-- 🔹 **[Unidad 1: Introducción a la Algoritmia y Diagramas de Flujo](./unidad1/unidad1.md)**
+- 🔹 **[Unidad 1: Introducción a la Algoritmia y Diagramas de Flujo](./Unidad01/pseudocodigo_01_10/ejercicio01.md)**
 - 🔹 **[Unidad 2: Estructuras de Control Selectivas (Condicionales)](./unidad2.md)**
 - 🔹 **[Unidad 3: Estructuras Repetitivas (Ciclos y Bucles)](./unidad3.md)**
 - 🔹 **[Unidad 4: Funciones y Modularidad (Paso de Parámetros)](./unidad4.md)**
