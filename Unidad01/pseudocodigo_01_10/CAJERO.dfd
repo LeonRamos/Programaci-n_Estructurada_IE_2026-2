@@ -1,0 +1,101 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+NIPC
+4
+1234
+6
+SALDOI
+4
+5000
+4
+1
+17
+'Ingresa tu NIP:'
+5
+1
+3
+NIP
+7
+0
+1
+10
+NIP = NIPC
+4
+1
+22
+'El NIP es incorrecto'
+4
+1
+17
+'Ingresa tu NIP:'
+5
+1
+3
+NIP
+7
+0
+1
+10
+NIP = NIPC
+4
+1
+22
+'El NIP es incorrecto'
+4
+1
+22
+'Te quedan 2 intentos'
+5
+1
+3
+NIP
+7
+0
+1
+10
+NIP = NIPC
+4
+1
+22
+'El NIP es incorrecto'
+4
+1
+16
+'Ultimo intento'
+5
+1
+3
+NIP
+7
+0
+1
+10
+NIP = NIPC
+13
+13
+13
+4
+1
+46
+'Aceso correcto. Su saldo inicial es:', SALDOI
+13
+13
+4
+1
+46
+'Aceso correcto. Su saldo inicial es:', SALDOI
+13
+13
+4
+1
+46
+'Aceso correcto. Su saldo inicial es:', SALDOI
+13
+1
