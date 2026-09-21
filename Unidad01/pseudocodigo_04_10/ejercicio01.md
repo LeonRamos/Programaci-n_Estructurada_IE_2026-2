@@ -49,3 +49,5 @@ A continuación, la tabla con las 40 prácticas y la mejora o implementación es
 | **39** | Sistema de Gestión Escolar | **Búsqueda Secuencial (Arreglos):** Tener un vector con los nombres y otro con las calificaciones (Arreglos Paralelos). Pedir un nombre, buscarlo con un ciclo y mostrar si aprobó o reprobó. |
 | **40** | Proyecto de Inventarios | **Validación Integral de Operadores:** Al vender un producto (restar cantidad del vector inventario), validar con condicionales lógicos que la cantidad solicitada no exceda el stock actual. |
 
+
+
